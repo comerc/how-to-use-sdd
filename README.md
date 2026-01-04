@@ -1,4 +1,4 @@
-# Внедрение Spec-Driven Development в существующие кодовые базы
+# Внедрение Spec-Driven Development в существующие проекты
 
 ![](https://github.com/comerc/how-to-use-sdd/blob/main/assets/image.jpg?raw=true)
 
