@@ -1,4 +1,4 @@
-# Как применять Spec-Driven Development для исследования существующих кодовых баз?
+# Внедрение Spec-Driven Development в существующие кодовые базы
 
 ![](https://github.com/comerc/how-to-use-sdd/blob/main/assets/image.jpg?raw=true)
 
